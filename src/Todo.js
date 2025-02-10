@@ -9,7 +9,7 @@ import { getFirestore, doc, setDoc } from 'firebase/firestore';
 import { collection, addDoc } from "firebase/firestore";
 
 
-// Firebase konfiguracija
+// Firebase konfiguracijaaa
 const firebaseConfig = {
   apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
   authDomain: process.env.REACT_APP_FIREBASE_AUTH_DOMAIN,
